@@ -251,7 +251,7 @@
             "balance": 0.0,
             "bypass": false,
             "equal-mode": "IIR",
-            "frequency": 120.0,
+            "frequency": 140.0,
             "gain": 0.0,
             "input-gain": 0.0,
             "mode": "RLC (BT)",
@@ -277,7 +277,7 @@
         },
         "maximizer#2": {
             "bypass": false,
-            "input-gain": 5.2,
+            "input-gain": 6.2,
             "output-gain": -0.6,
             "release": 25.0,
             "threshold": 0.0
@@ -377,7 +377,7 @@
                 "knee": -6.0,
                 "makeup": 0.0,
                 "mute": false,
-                "ratio": 1.1500000000000001,
+                "ratio": 1.1,
                 "release-threshold": -100.0,
                 "release-time": 3.5,
                 "sidechain-custom-highcut-filter": false,

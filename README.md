@@ -32,4 +32,3 @@ Presets were created for Dell Inspiron Laptops
 
 **Presets:**
 * `inspiron-15-2W-speakers-down-firing.json` - Balance of clarity and bass
-* `inspiron-15-2W-speakers-down-firing__bass.json` - Subtle focus on bass with strong clarity

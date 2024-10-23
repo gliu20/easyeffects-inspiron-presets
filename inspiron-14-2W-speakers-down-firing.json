@@ -12,6 +12,23 @@
             "scope": 220.0
         },
         "blocklist": [],
+        "deesser#0": {
+            "bypass": false,
+            "detection": "RMS",
+            "f1-freq": 6000.0,
+            "f1-level": 0.0,
+            "f2-freq": 4500.0,
+            "f2-level": 12.0,
+            "f2-q": 1.0,
+            "input-gain": 0.0,
+            "laxity": 15,
+            "makeup": 0.0,
+            "mode": "Wide",
+            "output-gain": 0.0,
+            "ratio": 3.0,
+            "sc-listen": false,
+            "threshold": -18.0
+        },
         "equalizer#1": {
             "balance": 0.0,
             "bypass": false,
@@ -741,6 +758,7 @@
             "bass_enhancer#0",
             "equalizer#2",
             "filter#0",
+            "deesser#0",
             "maximizer#0"
         ]
     }
